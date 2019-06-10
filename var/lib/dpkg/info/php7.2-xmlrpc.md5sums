@@ -1,0 +1,5 @@
+2db8d90c1e1e8fcc2835f98dd08dd63c  usr/lib/php/20170718/xmlrpc.so
+68991fe92c2e50823ca010dfb9df6ef7  usr/share/bug/php7.2-xmlrpc/control
+8300ae70ed6e874cd312c610ffbed2b8  usr/share/bug/php7.2-xmlrpc/script
+c37a8ecae5d28ce1d5725a8e13a03f7e  usr/share/lintian/overrides/php7.2-xmlrpc
+c00e031cbac7178453cc9e45de838888  usr/share/php7.2-xmlrpc/xmlrpc/xmlrpc.ini

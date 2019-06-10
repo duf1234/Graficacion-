@@ -1,0 +1,6 @@
+5aa9467af4e06c77f2de4bc11a9390a7  lib/systemd/system/certbot.service
+ab720764cf0139bc95c7cdda7ac125b6  lib/systemd/system/certbot.timer
+b358e0f4190a7bb467d361776ba34d9e  usr/bin/certbot
+c13215c32dbd6ce3ed393090a4ae0255  usr/share/doc/certbot/README.rst.gz
+82c62100de6918cccb1d8a0e451f994f  usr/share/doc/certbot/changelog.Debian.gz
+cd3fa424941725748b86042fdfc95f7e  usr/share/doc/certbot/copyright

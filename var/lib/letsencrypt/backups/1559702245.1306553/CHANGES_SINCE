@@ -1,0 +1,2 @@
+-- Add enhancement redirect --
+Redirecting host in /etc/apache2/sites-enabled/grav.conf to ssl vhost in /etc/apache2/sites-available/grav-le-ssl.conf

@@ -1,0 +1,9 @@
+-- Deployed ACME Certificate --
+Created ssl vhost at /etc/apache2/sites-available/grav-le-ssl.conf
+Enabled socache_shmcb module in Apache
+Enabled ssl module in Apache
+(autosave)Enabled site /etc/apache2/sites-available/grav-le-ssl.conf
+Changed vhost at /etc/apache2/sites-available/grav-le-ssl.conf with addresses of *:443
+	SSLCertificateFile /etc/letsencrypt/live/thebrayanmina.com/fullchain.pem
+	SSLCertificateKeyFile /etc/letsencrypt/live/thebrayanmina.com/privkey.pem
+	SSLCertificateChainFile /etc/letsencrypt/live/thebrayanmina.com/chain.pem

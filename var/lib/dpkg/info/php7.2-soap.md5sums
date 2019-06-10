@@ -1,0 +1,5 @@
+30f1b8b40cd87842a300dc726dbec479  usr/lib/php/20170718/soap.so
+68991fe92c2e50823ca010dfb9df6ef7  usr/share/bug/php7.2-soap/control
+7e6f963617046802c0d008213b792698  usr/share/bug/php7.2-soap/script
+c436fbe51ab3a5e55052fdddd76892ef  usr/share/lintian/overrides/php7.2-soap
+18195911708014f1a66ec2fa22c1fcef  usr/share/php7.2-soap/soap/soap.ini
